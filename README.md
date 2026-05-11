@@ -6,8 +6,6 @@
 
 ## Описание проекта
 
-**Teen Savings Bot** — это Telegram-бот-прототип для банковского приложения будущего, ориентированного на подростков младше 18 лет.
-
 Проект посвящён адаптации раздела депозитов и накопительных счетов под подростковую аудиторию, которая только начинает формировать финансовые привычки и учиться управлять карманными деньгами.
 
 Бот помогает:
@@ -340,8 +338,6 @@ venv/
 # English Version
 
 ## Project Description
-
-**Teen Savings Bot** is a Telegram bot prototype for a future banking application focused on teenagers under 18.
 
 The project adapts the idea of deposits and savings accounts for teenagers who are just starting to develop financial habits and manage pocket money.
 
